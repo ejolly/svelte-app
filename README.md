@@ -1,8 +1,17 @@
-*Psst  looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+*Psst ï¿½looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
 
 # svelte app
+
+Code was copied from [here](https://v3.svelte.technology/repl?version=3.0.0-beta.28&example=media-elements)
+
+Then the following commands were run to compile and deploy (make sure `now` is installed based on instructions below):
+1. `npm run build`
+2. `now public -n svelte-app`
+3. app is live at [https://svelte-app.ejolly.now.sh/](https://svelte-app.ejolly.now.sh/)
+
+## Instructions
 
 This is a project template for [Svelte](https://svelte.technology) apps. It lives at https://github.com/sveltejs/template.
 
